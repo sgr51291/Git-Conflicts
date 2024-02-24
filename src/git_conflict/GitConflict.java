@@ -6,6 +6,7 @@ public class GitConflict {
 		System.out.println("Project A");
 		System.out.println("Project B");
 		System.out.println("-------------------");
-		System.out.println("On Branch A for Sagar Yadav");
+		System.out.println("----------On Branch A for Sagar Yadav----------");
+	
 	}
 }
